@@ -1,0 +1,102 @@
+[
+{
+	"site" : "npr",
+	"link" : "http://www.npr.org/rss/rss.php?id=1001",
+	"type" : "rss"
+},
+{
+	"site" : "电视新闻-Mtime时光网",
+	"link" : "http://feed.mtime.com/tvnews.rss",
+	"type" : "rss"
+},
+{
+	"site" : "人物新闻-Mtime时光网",
+	"link" : "http://feed.mtime.com/peoplenews.rss",
+	"type" : "rss"
+},
+{
+	"site" : "电影新闻-Mtime时光网",
+	"link" : "http://feed.mtime.com/movienews.rss",
+	"type" : "rss"
+},
+{
+	"site" : "专题策划-Mtime时光网",
+	"link" : "http://feed.mtime.com/feature.rss",
+	"type" : "rss"
+},
+{
+	"site" : "腾讯国内新闻",
+	"link" : "http://news.qq.com/newsgn/rss_newsgn.xml",
+	"type" : "rss"
+},
+{
+	"site" : "视频新闻-Mtime时光网",
+	"link" : "http://feed.mtime.com/videonews.rss",
+	"type" : "rss"
+},
+{
+	"site" : "FT中文网一周十大热门文章",
+	"link" : "http://www.ftchinese.com/rss/hotstoryby7day",
+	"type" : "rss"
+},
+{
+	"site" : "FT中文网 - 双语阅读",
+	"link" : "http://www.ftchinese.com/rss/diglossia ",
+	"type" : "rss"
+},
+{
+	"site" : "知乎每日精选",
+	"link" : "https://www.zhihu.com/rss",
+	"type" : "rss"
+},
+{
+	"site" : "PanSci 泛科學",
+	"link" : "https://pansci.asia/feed",
+	"type" : "rss"
+},
+{
+	"site" : "A Day Magazine",
+	"link" : "http://www.adaymag.com/feed",
+	"type" : "rss"
+},
+{
+	"site" : "优设-UISDC",
+	"link" : "http://www.uisdc.com/feed",
+	"type" : "rss"
+},
+{
+	"site" : "南风窗最新文章",
+	"link" : "http://www.nfcmag.com/rss/lastest.xml",
+	"type" : "rss"
+},
+{
+	"site" : "月光博客",
+	"link" : "http://feed.williamlong.info/",
+	"type" : "rss"
+},
+{
+	"site" : "36氪",
+	"link" : "http://36kr.com/feed",
+	"type" : "rss"
+},
+{
+	"site" : "爱范儿",
+	"link" : "http://www.ifanr.com/feed",
+	"type" : "rss"
+},
+{
+	"site" : "读写人",
+	"link" : "http://www.duxieren.com/duxieren.xml",
+	"type" : "rss"
+},
+{
+	"site" : "喷嚏图卦",
+	"link" : "http://www.pentitugua.com/rss.xml",
+	"type" : "rss"
+},
+{
+	"site" : "喷嚏图卦",
+	"link" : "http://www.pentitugua.com/rss.xml",
+	"type" : "rss"
+}
+]
